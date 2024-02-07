@@ -2,4 +2,5 @@
 
 Simple rock paper scissors game using HTML, CSS, and Javascript
 
-!Alt Text
+![alt text]([https://github.com/numi8462/RockPaperScissors/images/preview.png?raw=true)
+
